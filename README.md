@@ -1,2 +1,2 @@
 # flutter_quiz
-flutter quiz
+flutter quiz app
